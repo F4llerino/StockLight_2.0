@@ -35,6 +35,6 @@ Anschließend werden durch festgelegte Bedingungen bestimmt, welche Farbe angeze
  *********************************
  Das Programm wurde zu 100% mit Python programmiert.
  Für das GUI wurde Tkinter verwendet.
- Für die Abfrage der Daten wurde die Library yfinance verwendet, die die Daten von Yahoo Finance nutzbar machen soll.
+ Für die Abfrage der Daten wurde die Yahoo Finance API verwendet, die die Daten von Yahoo Finance nutzbar machen soll.
  Das Programm dient für mich als erste Übung, um mit APIs zu arbeiten.
 
