@@ -1,5 +1,5 @@
 # StockLight_2.0
-Updated version of StockLight Youtube Link:
+Updated version of StockLight Youtube Link: https://www.youtube.com/watch?v=vieJx3pAniA
 
 Änderungen:
 Es wurde auf das yfinance-package verzichtet und stattdessen die Yahoo Finance API verwendet. Dadurch muss in der Datei data_operations ein API-Key eingefütg werden.<br>
